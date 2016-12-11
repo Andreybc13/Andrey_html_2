@@ -4,15 +4,14 @@
 }
 .all {
   margin: auto;
-  width: 600px;
+  width: 530px;
 }
-.header {
-    margin: auto;
-    padding-bottom: 20px;
+.top {
+    padding-bottom: 10px;
     border-bottom: 1px solid rgba(31, 31, 31, 0.22);
 }
 .mid {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   border-bottom: 1px solid rgba(101, 100, 102, 0.2);
 }
 .menu {
