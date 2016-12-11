@@ -1,0 +1,37 @@
+.body {
+   font-family: Arial;
+   background-image: url(bg.jpg);
+}
+.all {
+  margin: auto;
+  width: 600px;
+  padding-bottom: 20px;
+}
+.header {
+    margin: auto;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(31, 31, 31, 0.22);
+}
+
+.mid {
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(101, 100, 102, 0.2);
+}
+
+.menu {
+  list-style-type: none;
+  
+}
+
+.menu1 {
+ list-style-type: none;
+ text-decoration: underline;
+ font-style: italic;
+ color: #0056d3;
+ padding-bottom: 20px;
+ border-bottom: 1px solid rgba(31, 31, 31, 0.2);
+}
+
+.me{
+  text-align: center;
+}
